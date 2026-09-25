@@ -1,0 +1,12 @@
+.main {
+    flex: 1;
+    background-color: #555e55;
+    width: 100%;
+}
+
+@media (max-width: 1200px) {
+   .main
+   {background-color: green;}
+}
+
+
